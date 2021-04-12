@@ -1,5 +1,7 @@
 # Comuniazo-Scraping
 
+## Descripció
+
 
 ## Equip
 
