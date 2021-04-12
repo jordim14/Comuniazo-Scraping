@@ -2,6 +2,7 @@
 
 ## Descripció
 
+Aquesta pràctica s'ha realitzat sota el context de l'assignatura Tipologia i cicle de vida de les dades, pertanyent a el Màster en Ciència de Dades de la Universitat Oberta de Catalunya. En ella, s'apliquen tècniques de web scraping mitjançant el llenguatge de programació R per extreure així dades del web Comuniazo i generar un dataset que permeti a l'usuari explotar la informació de la pàgina d'una forma fàcil i intuïtiva i poder extreure conclusions sobre la lliga de futbol professional a Espanya.
 
 ## Equip
 
